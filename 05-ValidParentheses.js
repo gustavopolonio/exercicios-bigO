@@ -4,7 +4,7 @@
 // Tests:
 // isValid("()")      // true
 // isValid("()[{}]{}")  // true
-// isValid("(]")      // false
+// isValid("(]")      // false 
 
 
 // solução
